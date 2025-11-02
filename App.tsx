@@ -803,7 +803,7 @@ const Header = ({ activeView, navigate, user, onLogout }: { activeView: View; na
         </nav>
     </header>
 );
-}
+};
 const Footer = () => (
     <footer className="bg-black bg-opacity-30 border-t border-agent-purple/20 mt-auto">
         <div className="container mx-auto px-4 py-4 text-gray-500 flex justify-center items-center">
